@@ -377,7 +377,8 @@ Come si può vedere, il proprio codice può trasformarsi in ["spaghetti code"](h
 
 ## Quiz Post-Lezione
 
-[Quiz post-lezione](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/34?loc=it)
+[
+Quiz post-lezione](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/34?loc=it)
 
 ## Revisione e Auto Apprendimento
 
